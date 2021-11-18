@@ -1,4 +1,4 @@
-## Inventory Management System - desktop based 
+## Asset Management System 
 
 #### This uses following libraries/frameworks
 - Swing 
@@ -16,10 +16,6 @@
 - Start with "Item Entry" tab to enter inventory items and do Stock Query, Transfer or Sell, Handle Returns of Items etc
 
 ## You can use this project as a template to build out your projects! I believe the code is simple enough to understand the overall flow and add/modify modules.
-
-### For any queries :
-- Email : gtiwari333@gmail.com
-- Blog : http://ganeshtiwaridotcomdotnp.blogspot.com/ 
 
 
 ##### CopyLeft:
